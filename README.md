@@ -1,2 +1,2 @@
 # kbc-game-python
-A simple KBC-style quiz game built using python
+A simple KBC-inspired quiz game built using python
